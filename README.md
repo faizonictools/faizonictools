@@ -1,16 +1,14 @@
-## Hi there 👋
+# FaiZonic Tools
 
-<!--
-**faizonictools/faizonictools** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Free online tools & reviews
 
-Here are some ideas to get you started:
+🌐 Website: https://faizonictools.blogspot.com/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Free Tools
+
+- [Word Counter](https://faizonictools.blogspot.com/p/free-word-counter-online-count-words.html)
+- [QR Code Generator](https://faizonictools.blogspot.com/p/free-qr-code-generator-create-qr-codes.html)
+- [Resume Builder](https://faizonictools.blogspot.com/p/free-resume-builder-build-resumes-online.html)
+- [Invoice Generator](https://faizonictools.blogspot.com/p/free-invoice-generator-create-invoices.html)
+- [Logo Maker](https://faizonictools.blogspot.com/p/free-logo-maker-create-logos-online.html)
+- [Business Card Maker](https://faizonictools.blogspot.com/p/free-business-card-maker-online.html)
